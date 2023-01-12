@@ -1,4 +1,4 @@
-** Tipos curinga (wildcard types) **
+* Tipos curinga (wildcard types) 
 	http://educandoweb.com.br
 	Prof. Dr. Nelio Alves
 
@@ -18,4 +18,3 @@
 	List<?> myObjs = new ArrayList<Object>();
 	List<Integer> myNumbers = new ArrayList<Integer>();
 	myObjs = myNumbers;
-
